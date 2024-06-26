@@ -2,7 +2,7 @@
 
 ### About
 - 🎓 I'm a student at 42Lausanne
-- 💻 Currently on ft_transcendence
+- 💻 Currently learning
 - ❤️ Interests: coding, series, movies
 
 ### Reach me
